@@ -12,7 +12,7 @@ require (
 	github.com/jpillora/sizestr v1.0.0
 	golang.org/x/crypto v0.15.0
 	golang.org/x/net v0.18.0
-	golang.org/x/sync v0.5.0
+	golang.org/x/sync v0.6.0
 )
 
 require (
